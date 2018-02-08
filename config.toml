@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://canem-inops.github.io/past-systems/"
 languageCode = "en-us"
 title = "Past Systems - Lessons learned"
 theme = "beautiful"
