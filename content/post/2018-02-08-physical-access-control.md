@@ -3,8 +3,6 @@ title: Physical Access Control
 date: 2018-02-08
 ---
 
-# Physical Access Control
-
   Access control has its own meaning in software development so this might confuse some people. In this case the system was used to control the access to certain places: a building, an office or maybe a specific room inside the office (like a datacenter).  
 <!--more-->  
 
