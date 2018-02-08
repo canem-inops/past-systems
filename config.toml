@@ -1,5 +1,5 @@
 baseURL = "https://canem-inops.github.io/past-systems/"
 languageCode = "en-us"
-title = "Past Systems - Lessons learned"
+title = "Past systems - Lessons learned"
 theme = "beautiful"
 publishDir = "docs"
