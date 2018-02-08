@@ -17,7 +17,10 @@
       <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://canem-inops.github.io/past-systems/post/2018-02-08-physical-access-control/</guid>
-      <description>Physical Access Control</description>
+      <description>&lt;h1 id=&#34;physical-access-control&#34;&gt;Physical Access Control&lt;/h1&gt;
+
+&lt;p&gt;Access control has its own meaning in software development so this might confuse some people. In this case the system was used to control the access to certain places: a building, an office or maybe a specific room inside the office (like a datacenter).&lt;br /&gt;
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -26,9 +29,8 @@
       <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://canem-inops.github.io/past-systems/post/2018-02-07-what-is-past-systems/</guid>
-      <description>It is not hard to find online information about the archicteture of systems in big companies. How Google, Netflix,Spotify or Airbnb are solving their issues.
-However, the majority of developers do not work on their scale and there is a general lack of sharing knowledge in smaller and more enterprisey systems.
-For ERPs, Financial, Order Management, Logistics, Hotel Reservations and many other systems, it is pretty hard to find real life examples of how solutions were implemented and what worked or not in these cases.</description>
+      <description>&lt;p&gt;It is not hard to find online information about the archicteture of systems in big companies. How Google, Netflix,Spotify or Airbnb are solving their issues.&lt;br /&gt;
+&lt;/p&gt;</description>
     </item>
     
     <item>
