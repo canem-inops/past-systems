@@ -10,14 +10,14 @@ date: 2018-02-08
 
 ### Pros
 
-Usability: many features created after direct observation of users
-Support of multiple databases (Access, Sql Server, Oracle)
+- Usability: many features created after direct observation of users.
+- Support of multiple databases (Access, Sql Server, Oracle).
 
 ### Cons
 
-No automated tests
-No version control
-Spaghetti code
+- No automated tests
+- No version control
+- Spaghetti code
 
 ## Architecture & Evolution
 
